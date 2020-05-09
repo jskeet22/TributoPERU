@@ -3,7 +3,7 @@ namespace TributoPERU
 {
     public class xLocEquivalAcctEntry : PXGraph<xLocEquivalAcctEntry>
     {
-    //linea modificada
+    
         //public PXSelect<xLocEquivalHeader> xLocEquivalHeaders;
         //public PXSelect<xLocEquivalAcct,
         //   Where<xLocEquivalAcct.cuentaCD, Equal<Current<xLocEquivalHeader.cuentaCD>>>> xLocEquivalAccts;
